@@ -1,0 +1,15 @@
+15:08:04	 От  Калинин Владимир (ментор) : describe()
+15:08:07	 От  Калинин Владимир (ментор) : info()
+15:08:09	 От  Калинин Владимир (ментор) : head()
+15:09:28	 От  Калинин Владимир (ментор) : логарифмирование
+15:09:30	 От  Калинин Владимир (ментор) : взятие корня
+15:09:39	 От  Калинин Владимир (ментор) : преобразование бокса-кокса
+15:11:17	 От  Калинин Владимир (ментор) : z-преобразование
+15:11:27	 От  Калинин Владимир (ментор) : min max transform
+15:22:03	 От  Yerkhan Kabyl : 2 пункт и 5 пункт не противоречят друг другу?
+15:28:28	 От  Калинин Владимир (ментор) : метода PCA
+15:29:49	 От  Yerkhan Kabyl : PCA для борьбы с плохой обусловленностью? 
+15:30:18	 От  Dima Yakimchuk : Добрый день! только подключился. будет ли запись. если да, где можно будет посмотреть?
+15:36:20	 От  Калинин Владимир (ментор) : Про заполнение пропусков:http://www.machinelearning.ru/wiki/images/9/90/Kayumov_course_work_imputer_methods.pdfhttps://ru.coursera.org/lecture/unsupervised-learning/obrabotka-propuskov-3mRlZПро типы переменных в Data Science:https://towardsdatascience.com/variable-types-and-examples-cf436acaf769Шпаргалка Markdown:http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/Анкета обратной связи по вебинару:https://docs.google.com/forms/d/e/1FAIpQLScV-_4J0RMEpnTw1PEabGZIfnT5pD0JtzMdPJ2NXgnd2CRihw/viewform
+15:39:05	 От  Yerkhan Kabyl : Практической части не будет?(
+15:42:06	 От  Sergey : Можете рассказать про какой-нибудь реальный кейс из своего опыта? Какие задачи бывают
